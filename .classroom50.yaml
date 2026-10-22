@@ -1,0 +1,12 @@
+schema: "classroom50/repo-config/v1"
+classroom: "mpt"
+assignment: "markup-basics"
+owner:
+  username: "mrygrz8"
+  id: 282778034
+  accepted_at: "2026-10-22T10:22:24Z"
+source:
+  owner: "nsu-syspro"
+  owner_id: 115493553
+  repo: "mpt-markup-basics"
+  branch: "main"
